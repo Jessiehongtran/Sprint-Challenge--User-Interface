@@ -147,5 +147,24 @@ footer nav a {
 
 a {
     text-decoration: none;
-    color: black
+    color: black;
+    margin: 25px;
+}
+
+nav{
+    margin: 25px;
+}
+
+.cta {
+    display: flex;
+    justify-content: flex-start;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.cta {
+    margin: 25px;
 }
