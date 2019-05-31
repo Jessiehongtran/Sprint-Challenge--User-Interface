@@ -286,6 +286,8 @@ header {
 
 .middle-content-text {
     margin: 30px;
+    margin-bottom: 20px;
+    border-bottom: 1px dashed black;
 }
 
 .middle-content-about-1 {
@@ -299,3 +301,4 @@ header {
     align-items: center;
     justify-content: center;
 }
+
