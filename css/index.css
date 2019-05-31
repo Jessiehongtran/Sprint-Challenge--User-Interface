@@ -279,3 +279,23 @@ header {
     align-items: center;
     justify-content: center;
 }
+
+.p-text {
+    width: 100%;
+}
+
+.middle-content-text {
+    margin: 30px;
+}
+
+.middle-content-about-1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.middle-content-about-2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
